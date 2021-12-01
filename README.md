@@ -8,8 +8,10 @@ While this academic dishonesty scandal from this cohort of 9th graders from Thom
 ### District Summary, School Summary, and Thomas High School Performance
 * The district summary scores were only slightly affected, given that there are still more than 38,000 test scores (observations) in the data. We see that the overall passing rate slightly decreased from 65.2% to 64.9%. The reading passing rate fell from 85.8% to 85.7%, and the math passing rate fell from 75.0% to 74.8%. Average reading scores stayed roughly around the same (given that scores were formatted to fit one decimal point) and average math scores fell from 79.0 to 78.9. This makes sense given that Thomas High School was ranked as one of the top 5 performing schools in our analysis.
 
- <img width="944" alt="Screen Shot 2021-11-30 at 11 13 25 AM" src="https://user-images.githubusercontent.com/92702922/144095071-45c01816-442f-443f-      a434-124e03687bd2.png"> 
- <img width="928" alt="Screen Shot 2021-11-30 at 11 13 55 AM" src="https://user-images.githubusercontent.com/92702922/144095250-eba7199d-6707-4b25-       bf23-0466b056b34b.png"> 
+ <img width="944" alt="Screen Shot 2021-11-30 at 11 13 25 AM" src="https://user-images.githubusercontent.com/92702922/144158919-d233df0c-46d7-432d-b0a6-dc13246b8e64.png">
+
+ <img width="928" alt="Screen Shot 2021-11-30 at 11 13 55 AM" src="https://user-images.githubusercontent.com/92702922/144158944-3fab306b-b462-47cf-a75d-403e83f26987.png">
+
   
 * As stated previously, the academic dishonesty scandal only affects scores for Thomas High School. In the school summary, all other schools remain with the same data except Thomas High School since we remove the math and reading scores for 9th graders. Therefore, we see that all the percentages (the overall passing rate, the math passing rate, and the reading passing rate) all decrease when replacing the THS 9th grade scores, but by less than a percentage point. As for the averages, the average math score decreases by less than 0.1 percentage points, while the average reading score increases by a similar amount when THS 9th grade scores are replaced.
 
