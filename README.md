@@ -16,7 +16,7 @@ While this academic dishonesty scandal from this cohort of 9th graders from Thom
 
  <img width="993" alt="Screen Shot 2021-11-30 at 11 24 43 AM" src="https://user-images.githubusercontent.com/92702922/144159685-dfcd8ab5-11d9-4cf4-9d5d-79df695ad823.png">
  
- <img width="987" alt="Screen Shot 2021-11-30 at 8 39 24 PM" src="https://user-images.githubusercontent.com/92702922/144162128-22147e87-6f5a-46c3-b305-bc29e3b4c1e1.png">
+ <img width="1000" alt="Screen Shot 2021-11-30 at 8 49 29 PM" src="https://user-images.githubusercontent.com/92702922/144163051-901ba177-a79e-4848-aa1f-ac3115e96b23.png">
 
 * Replacing the 9th graders' math and reading scores doesn't affect Thomas High School's performance relative to other schools. When obtaining the top 5 performing schools by overall passing rate, Thomas High School is still ranked as the 2nd best school after 9th grade scores are replaced, as can be seen below. This is despite the decrease in several of these testing score metrics previously mentioned. 
 
